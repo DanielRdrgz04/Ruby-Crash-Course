@@ -1,4 +1,4 @@
-## Introduction Ruby by Daniel Rodriguez Cataño
+## Ruby Crash Course by Daniel Rodriguez Cataño
 
 I use git hub, because I need the repositary for class of Ruby
 
@@ -6,7 +6,12 @@ I use git hub, because I need the repositary for class of Ruby
 Ruby: https://rubyinstaller.org/
 
 ## Documentation
-https://www.ruby-lang.org/es/documentation/
+Documentation of Ruby: https://www.ruby-lang.org/es/documentation/
+
+## Drive with the sessions
+[Drive][url]
+
+[url]: https://drive.google.com/drive/folders/143rKX9ehAQMcpuiLMTJqGWpYcE0-9o_P?usp=sharing
 
 ## Licence
 [MIT][def]
